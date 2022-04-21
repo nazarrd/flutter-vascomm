@@ -1,16 +1,14 @@
-# vascomm
+# Mobile Developer Freelance - Vascomm
 
-A new Flutter project.
+Project ini merupakan test case dari [Vascomm](https://www.vascomm.co.id/) untuk posisi **Mobile Developer - Freelance**. Untuk pembuatan project structure, generate model, page, view, dan lainnya semua menggunakan `Get CLI` dengan pattern `GetX Pattern (by Kauê)` dari [GetX](https://pub.dev/packages/get).  
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+Fitur (dari kiri ke kanan) :  
+`login` - `register` - `home` - `drawer` - `profile`
+![vascomm](https://user-images.githubusercontent.com/56527536/164520389-0e469915-b8f2-473f-b053-9fe81258a731.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Ada yang ingin di diskusikan? Hubungi saya melalui
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [LinkedIn](https://www.linkedin.com/in/nazarudin/)
+* [WhatsApp](https://wa.me/6281365041803)
