@@ -44,10 +44,8 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
 
 class _ActionButton extends StatelessWidget {
   final String assetsName;
-  final double? size;
   final Function()? onPressed;
-  const _ActionButton(
-      {Key? key, required this.assetsName, this.onPressed, this.size})
+  const _ActionButton({Key? key, required this.assetsName, this.onPressed})
       : super(key: key);
 
   @override
@@ -63,7 +61,7 @@ class _ActionButton extends StatelessWidget {
           children: [
             Image.asset(
               'assets/icons/$assetsName.png',
-              width: size ?? 20,
+              width: 20,
             ),
             assetsName != 'notification'
                 ? const SizedBox()
