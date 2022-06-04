@@ -2,7 +2,7 @@
 
 Project ini merupakan test case dari [Vascomm](https://www.vascomm.co.id/) untuk posisi **Mobile Developer - Freelance**. Untuk pembuatan project structure, generate model, page, view, dan lainnya semua menggunakan `Get CLI` dengan pattern `GetX Pattern (by Kauê)` dari [GetX](https://pub.dev/packages/get).  
 
-### Screenshot
+## Screenshot
 
 Fitur (dari kiri ke kanan) :  
 `login` - `register` - `home` - `drawer` - `profile`
